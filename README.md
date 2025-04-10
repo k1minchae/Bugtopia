@@ -58,6 +58,41 @@
 
 ## 📱시연 움짤
 
+<div style="width: 100%;">
+<img src= "./readme/main.png" style="width:40%;"
+/>
+<img src= "./readme/catch.gif" style="width:40%; margin-left:10px;"
+/>
+</div>
+
+- 시작화면, 채집한 곤충 화면
+- `Unity` 활용
+
+<br>
+
+---
+
+<div style="width: 100%;">
+<img src= "./readme/ar.gif" style="width:40%;"
+/>
+
+</div>
+
+- AR(증강 현실) 기술 사용
+- `AR Foundation` 을 통한 평면 인식
+- `AR Core` 를 통한 원근감 표현
+
+<br>
+
+---
+
+<img src= "./readme/message.png" style="width:100%;"
+/>
+
+- 푸시 알림 구현
+- 모바일에서 실시간으로 육성 이벤트를 확인할 수 있다.
+- `Firebase` 활용
+
 <br>
 <br>
 
